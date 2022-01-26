@@ -1,8 +1,16 @@
 # Real-Time-Voice-Cloning-Polish
 
+**THIS PROJECT**
+
+The project was created as part of a thesis in an engineering first degree program.
+
 ****ORIGINAL SOURCE CODE****
 
 This repository is an adaptation of the original code from https://github.com/CorentinJ/Real-Time-Voice-Cloning and it's German version https://github.com/padmalcom/Real-Time-Voice-Cloning-German
+
+**UPDATES**
+
+Describe model will be updating from time to time when a better model performance is achieved. 
 
 **CHANGES**
 
