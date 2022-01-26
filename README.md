@@ -10,7 +10,7 @@ The main model (encoder, synthesizer, vocoder) is traind on a Polish audio datas
 
 **STRUCTURE**
 
-This repository is divided in 3 main parts:
+This repository is divided in 4 main parts:
 1. Original code.
 2. Modified code + explanation.
 3. Additional codes to help process audio files.
