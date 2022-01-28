@@ -2,7 +2,7 @@
 
 **THIS PROJECT**
 
-This project was created as part of a thesis in an engineering first degree program. The project is not intended for commercial use. 
+This project was created as part of a thesis in an engineering first degree program. It's not intended for commercial use. 
 
 ****ORIGINAL SOURCE CODE****
 
