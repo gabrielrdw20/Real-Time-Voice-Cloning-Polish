@@ -18,7 +18,7 @@ The main model (encoder, synthesizer, vocoder) is traind on a Polish audio datas
 
 **STRUCTURE**
 
-This repository is divided in 3 main parts:
+This repository is divided in 4 main parts:
 1. Start here - if you have no idea how to create a proper files directory, go to folder "start here", download the whole package and run the code: https://github.com/gabrielrdw20/Real-Time-Voice-Cloning-Polish/tree/main/start_here
 3. Modified code + explanation.
 4. Additional codes to help process audio files + graphic help to understand some dependencies.
