@@ -8,6 +8,12 @@ This project was created as part of a thesis in an engineering first degree prog
 
 This repository is an adaptation of the original code from https://github.com/CorentinJ/Real-Time-Voice-Cloning and it's German version https://github.com/padmalcom/Real-Time-Voice-Cloning-German
 
+MIT License
+Modified & original work Copyright (c) 2019 Corentin Jemine (https://github.com/CorentinJ)
+Original work Copyright (c) 2018 Rayhane Mama (https://github.com/Rayhane-mamah)
+Original work Copyright (c) 2019 fatchord (https://github.com/fatchord)
+Original work Copyright (c) 2015 braindead (https://github.com/braindead)
+
 **UPDATES**
 
 Described model will be updating from time to time when a better model performance is achieved. For now, it was trained on 2 voices and it's not really flexible. A new dataset is beign prepared.
