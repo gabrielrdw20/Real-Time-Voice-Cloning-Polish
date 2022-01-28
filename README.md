@@ -19,10 +19,10 @@ The main model (encoder, synthesizer, vocoder) is traind on a Polish audio datas
 **STRUCTURE**
 
 This repository is divided in 3 main parts:
-1. Start here - if you have no idea how to create a proper files directory, go to folder "start here" run the code.
-2. Modified code + explanation.
-3. Additional codes to help process audio files + graphic help to understand some dependencies.
-4. Streamlit app allowing to use the model online / onffline.
+1. Start here - if you have no idea how to create a proper files directory, go to folder "start here" run the code: https://github.com/gabrielrdw20/Real-Time-Voice-Cloning-Polish/tree/main/start_here
+3. Modified code + explanation.
+4. Additional codes to help process audio files + graphic help to understand some dependencies.
+5. Streamlit app allowing to use the model online / onffline.
 
 **CONTACT**
 
