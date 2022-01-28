@@ -10,7 +10,7 @@ This repository is an adaptation of the original code from https://github.com/Co
 
 **UPDATES**
 
-Describe model will be updating from time to time when a better model performance is achieved. 
+Described model will be updating from time to time when a better model performance is achieved. For now, it was trained on 2 voices and it's not really flexible. A new dataset is beign prepared.
 
 **CHANGES**
 
