@@ -22,7 +22,7 @@ This repository is divided in 4 main parts:
 1. Start here - if you have no idea how to create a proper files directory, go to folder "start here", download the whole package and run the code: https://github.com/gabrielrdw20/Real-Time-Voice-Cloning-Polish/tree/main/start_here
 3. Modified code + explanation.
 4. Additional codes to help process audio files + graphic help to understand some dependencies.
-5. Streamlit app (trained on Polish language dataset) allowing to use the model online / onffline. It's ready to use. Just download the code and run in your cmd: streamlit run app.py 
+5. Streamlit app (trained on Polish language dataset) allowing to use the model online / onffline. It's ready to use. Just download the code and run in your cmd: **streamlit run app.py** 
 
 
 **CONTACT**
