@@ -4,6 +4,11 @@
 
 This project was created as part of a thesis in an engineering first degree program. It's not intended for commercial use. 
 
+
+****MY CODES****
+
+Codes written by me are in the start_here  folder + Streamlit_RTVC_PL > app.py 
+
 ****ORIGINAL SOURCE CODE****
 
 This repository is an adaptation of the original code from https://github.com/CorentinJ/Real-Time-Voice-Cloning and it's German version https://github.com/padmalcom/Real-Time-Voice-Cloning-German
