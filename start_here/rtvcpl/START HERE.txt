@@ -1,1 +1,1 @@
-Create separate anaconda environment. Then import requirements.txt
+Create separate anaconda environment (open Anaconda Prompt and type **conda create -n your_environment python=3.8**), then import requirements.txt
