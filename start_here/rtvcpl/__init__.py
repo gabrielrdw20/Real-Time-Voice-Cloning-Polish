@@ -1,4 +1,4 @@
-'''Author: Gabriel Rodewald
+'''Author: Gabriel R.
 Github: gabrielrdw20
  '''
 
